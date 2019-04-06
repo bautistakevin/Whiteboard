@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28729.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunLengthEncoding", "RunLengthEncoding\RunLengthEncoding.csproj", "{67F1DA1B-EE36-4B64-A482-126EFE4C5596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookInterviewQuestion", "FacebookInterviewQuestion\FacebookInterviewQuestion.csproj", "{7D54E51E-CFF5-4637-96D3-C8D9C923498C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vectors", "..\..\..\..\..\Visual Studio Repositories\Vectors\Vectors\Vectors.csproj", "{E32CDADC-AC39-4522-BCBB-D56745545028}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalantirInterviewQuestion", "..\..\..\..\..\Visual Studio Repositories\PalantirInterviewQuestion\PalantirInterviewQuestion\PalantirInterviewQuestion.csproj", "{730843EB-11BE-4F22-8AE7-EADE2F1FCB4E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwitterInterviewQuestion", "..\..\..\..\..\Visual Studio Repositories\TwitterInterviewQuestion\TwitterInterviewQuestion\TwitterInterviewQuestion.csproj", "{E99D64D1-2759-4346-AB60-09B94507517C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleInterviewQuestion", "..\..\..\..\..\Visual Studio Repositories\ISTA421Week3\GoogleInterviewQuestion\GoogleInterviewQuestion.csproj", "{A3B366B2-11D5-47CD-B421-6634BC7B55C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67F1DA1B-EE36-4B64-A482-126EFE4C5596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F1DA1B-EE36-4B64-A482-126EFE4C5596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F1DA1B-EE36-4B64-A482-126EFE4C5596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F1DA1B-EE36-4B64-A482-126EFE4C5596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D54E51E-CFF5-4637-96D3-C8D9C923498C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D54E51E-CFF5-4637-96D3-C8D9C923498C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D54E51E-CFF5-4637-96D3-C8D9C923498C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D54E51E-CFF5-4637-96D3-C8D9C923498C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E32CDADC-AC39-4522-BCBB-D56745545028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E32CDADC-AC39-4522-BCBB-D56745545028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E32CDADC-AC39-4522-BCBB-D56745545028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E32CDADC-AC39-4522-BCBB-D56745545028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730843EB-11BE-4F22-8AE7-EADE2F1FCB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730843EB-11BE-4F22-8AE7-EADE2F1FCB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730843EB-11BE-4F22-8AE7-EADE2F1FCB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730843EB-11BE-4F22-8AE7-EADE2F1FCB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E99D64D1-2759-4346-AB60-09B94507517C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E99D64D1-2759-4346-AB60-09B94507517C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E99D64D1-2759-4346-AB60-09B94507517C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E99D64D1-2759-4346-AB60-09B94507517C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3B366B2-11D5-47CD-B421-6634BC7B55C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3B366B2-11D5-47CD-B421-6634BC7B55C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3B366B2-11D5-47CD-B421-6634BC7B55C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3B366B2-11D5-47CD-B421-6634BC7B55C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5396587A-8C81-4F0A-BB1F-DBBA099E312B}
+	EndGlobalSection
+EndGlobal
