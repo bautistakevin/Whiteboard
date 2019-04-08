@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunLengthEncoding", "RunLengthEncoding\RunLengthEncoding.csproj", "{67F1DA1B-EE36-4B64-A482-126EFE4C5596}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunLengthEncoding", "RunLengthEncoding\RunLengthEncoding.csproj", "{67F1DA1B-EE36-4B64-A482-126EFE4C5596}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookInterviewQuestion", "FacebookInterviewQuestion\FacebookInterviewQuestion.csproj", "{7D54E51E-CFF5-4637-96D3-C8D9C923498C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacebookInterviewQuestion", "FacebookInterviewQuestion\FacebookInterviewQuestion.csproj", "{7D54E51E-CFF5-4637-96D3-C8D9C923498C}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vectors", "..\..\..\..\..\Visual Studio Repositories\Vectors\Vectors\Vectors.csproj", "{E32CDADC-AC39-4522-BCBB-D56745545028}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwitterInterviewQuestion", "..\..\..\..\..\Visual Studio Repositories\TwitterInterviewQuestion\TwitterInterviewQuestion\TwitterInterviewQuestion.csproj", "{E99D64D1-2759-4346-AB60-09B94507517C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleInterviewQuestion", "..\..\..\..\..\Visual Studio Repositories\ISTA421Week3\GoogleInterviewQuestion\GoogleInterviewQuestion.csproj", "{A3B366B2-11D5-47CD-B421-6634BC7B55C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySumTo10", "ArraySumTo10\ArraySumTo10.csproj", "{CA31E7AE-A8AA-4402-885C-2E591AEB1A3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{A3B366B2-11D5-47CD-B421-6634BC7B55C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3B366B2-11D5-47CD-B421-6634BC7B55C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3B366B2-11D5-47CD-B421-6634BC7B55C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA31E7AE-A8AA-4402-885C-2E591AEB1A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA31E7AE-A8AA-4402-885C-2E591AEB1A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA31E7AE-A8AA-4402-885C-2E591AEB1A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA31E7AE-A8AA-4402-885C-2E591AEB1A3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
