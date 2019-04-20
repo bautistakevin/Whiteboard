@@ -23,9 +23,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoogleInterviewQuestion2", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmazonInterviewQuestion", "AmazonInterviewQuestion\AmazonInterviewQuestion.csproj", "{7701607C-4C2A-49E4-94F6-9394558C72A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftInterviewQuestion", "MicrosoftInterviewQuestion\MicrosoftInterviewQuestion.csproj", "{EA13F857-0315-4F7A-BBC4-4BA2DB84391E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MicrosoftInterviewQuestion", "MicrosoftInterviewQuestion\MicrosoftInterviewQuestion.csproj", "{EA13F857-0315-4F7A-BBC4-4BA2DB84391E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuplicateStrings", "DuplicateStrings\DuplicateStrings.csproj", "{8057AAC3-1B34-4F22-AB20-5BA04D5B028E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DuplicateStrings", "DuplicateStrings\DuplicateStrings.csproj", "{8057AAC3-1B34-4F22-AB20-5BA04D5B028E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareRootFunction", "SquareRootFunction\SquareRootFunction.csproj", "{97611CE0-6A0C-42E2-A819-ABFE2F2D3F55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleInterviewQuestion3", "GoogleInterviewQuestion3\GoogleInterviewQuestion3.csproj", "{5E15E66C-D815-4705-B9B9-FA631E324FB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirbnbInterviewQuestion", "AirbnbInterviewQuestion\AirbnbInterviewQuestion.csproj", "{41670D0C-0407-4B7B-A964-9B849FC46399}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +87,18 @@ Global
 		{8057AAC3-1B34-4F22-AB20-5BA04D5B028E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8057AAC3-1B34-4F22-AB20-5BA04D5B028E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8057AAC3-1B34-4F22-AB20-5BA04D5B028E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97611CE0-6A0C-42E2-A819-ABFE2F2D3F55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97611CE0-6A0C-42E2-A819-ABFE2F2D3F55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97611CE0-6A0C-42E2-A819-ABFE2F2D3F55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97611CE0-6A0C-42E2-A819-ABFE2F2D3F55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E15E66C-D815-4705-B9B9-FA631E324FB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E15E66C-D815-4705-B9B9-FA631E324FB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E15E66C-D815-4705-B9B9-FA631E324FB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E15E66C-D815-4705-B9B9-FA631E324FB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41670D0C-0407-4B7B-A964-9B849FC46399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41670D0C-0407-4B7B-A964-9B849FC46399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41670D0C-0407-4B7B-A964-9B849FC46399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41670D0C-0407-4B7B-A964-9B849FC46399}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
